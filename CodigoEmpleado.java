@@ -5,8 +5,12 @@ public class CodigoEmpleado {
     d: reino unido
     e: paises pbajos
      */
-
     /* hacer una funcion hash con codigos de trabajador: (A,23), (C,134) y (E, 1)*/
+
+    public CodigoEmpleado getCodigo() {
+        return codigo;
+    }
+
     public String getCodPais() {
         return null;
     }
