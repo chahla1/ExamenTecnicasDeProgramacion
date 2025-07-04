@@ -1,3 +1,5 @@
+//nos piden crear una funcion hash para almacenar tabajadores en una empresa en donde las sedes donde trabajan y los numeros de tres digitos se encuentran en la clase CodigoEmpleado,
+//los datos se tienen que almacenar en una tabla llamada tbl
 public class CodigoEmpleado {
     /*A: españa
     b: francia
