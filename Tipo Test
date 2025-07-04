@@ -1,0 +1,119 @@
+1.Principal ventaja del enfoque de backtracking:
+   c)permite desechar ramas completas del arbol de busqueda que no llevan a soluciones validas
+
+2.Funcionamiento de un algoritmo de backtracing
+  c)explora posibles soluciones parcialmente construidas y retrocede al detectar que no pueden llevar a una solucion valida
+
+3. en el contenido de backtracking para resolver el problema de las N reinas, que solucion no es factible
+   c) cuando una reina ataca a otra en la misma columna o diagonal
+4. En el problema de la bonoloto resuelto con backtracking, ¿qué representa la función
+  factible(nivel, sol) ?
+  b) Comprueba si los números seleccionados hasta el momento cumplen las restricciones del problema
+
+5.Dado el siguiente fragmento de código de un algoritmo de backtracking:
+  b) Que se ha alcanzado una solución completa válida
+
+6. ¿Qué principio establece que las clases deben estar abiertas para su extensión pero cerradas
+   para su modificación?
+  c) OCP
+
+7. ¿Cuál es el objetivo del principio de responsabilidad única (SRP)?
+   b) Hacer que una clase tenga una única razón para cambiar
+
+8. El siguiente código viola ¿qué principio?
+   c) Liskov Substitution
+
+9. ¿Qué principio sugiere dividir interfaces grandes en otras más específicas?
+   c) Interface Segregation
+
+10. En el patrón Strategy, ¿qué se encapsula y varía?
+   b) La estrategia de implementación
+
+11. ¿Cuál de los siguientes patrones permite encapsular algoritmos y hacerlos intercambiables?
+b) Strategy
+
+12. ¿Qué principio fomenta el uso de interfaces para reducir el acoplamiento entre clases?
+b) DIP
+
+13. ¿Cuál de las siguientes situaciones viola el principio DRY?
+   a) Duplicar lógica de impuestos en varias clases
+
+14.  ¿Qué patrón usarías si necesitas crear objetos relacionados sin especificar sus clases
+    concretas?
+    c) Abstract Factory
+
+15.  ¿Qué patrón permite que varios objetos reciban notificación de un cambio en otro objeto?
+    b) Observer
+
+16. . ¿Qué principio se aplica cuando evitamos construir objetos dentro de nuestras clases y
+    delegamos eso al exterior?
+    b) YAGNI
+
+16. ¿Qué patrón se usa para encapsular una solicitud como un objeto?
+    c) Bridge
+
+17. ¿Cuál es el problema principal del siguiente acceso? cliente.getDireccion().getCiudad()
+   d) Viola el patrón Factory
+
+18.El patrón Adapter sirve para:
+a) Crear objetos a partir de una familia de clases
+
+19.¿Qué patrón permite definir una estructura de pasos que pueden redefinirse parcialmente en
+   subclases?
+   c) Builder
+
+20.¿Qué patrón conviene aplicar cuando una clase solo debe tener una única instancia en todo el
+   sistema?
+   b) Factory Method
+
+21. ¿Qué patrón proporciona una manera flexible de añadir funcionalidad a un objeto en tiempo de
+   ejecución?
+   a) Adapter
+
+22. ¿Qué patrón permite recorrer elementos de una colección sin exponer su representación
+    interna?
+    a) Visitor
+
+23.  ¿Qué principio dice que no debes implementar funcionalidades que no sabes si necesitarás?
+    c) DIP
+
+24.  ¿Qué patrón separa una abstracción de su implementación para que ambas puedan evolucionar
+    independientemente?
+    c) Bridge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
